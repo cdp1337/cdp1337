@@ -1,22 +1,15 @@
-## whoami
+Charlie currently works at a large enterprise specializing in corporate information management, digital security, and endpoint backup solutions doing Linux systems administration and development in PHP, C#, and Java.  This does not relate to any code on Github but interested parties can read more on LinkedIn.
 
-Charlie aka cdp1337 across a variety of networks
+Admin of [Veracious Network](https://veraciousnetwork.com) and currently working on a more full featured implementation of CMS.js (listed in repos below).
 
-## ps ux
+Email encryption and verification are available via GPG, public keys listed in [gpg_keys](https://github.com/cdp1337/cdp1337/tree/main/gpg_keys).
 
-Currently toying with a Mastodon implementation for community members and failing to find motivation to create/upload videos for a variety of subjects
+-----
 
-## gpg --list-keys
-
-All my emails offer end-to-end encryption with GPG, some public keys are listed in [gpg_keys](https://github.com/cdp1337/cdp1337/tree/main/gpg_keys).  I try to use private servers, but generally recommend using GPG/PGP whenever necessary.
-
-## cat /proc/career
-
-I currently work at a large enterprise specializing in information management, digital security, and backups doing Linux systems administration and development in PHP, C#, and Java.  This does not relate to anything here but more information is available on LinkedIn (profile not linked, but a savvy searcher shouldn't have a difficult time).
-
-## ls /home/cdp1337/profiles
-
-* <a rel="me" href="https://social.veraciousnetwork.com/@cdp1337" title="cdp1337 on VeraciousNetwork's Mastodon">VeraciousNetwork's Mastodon</a> (ActivityPub enabled)
-* <a rel="me" href="https://www.reddit.com/user/cdp1337/" title="cdp1337 on Reddit">Reddit</a>
-* <a rel="me" href="https://github.com/cdp1337/" title="cdp1337 on Github">Github</a>
-
+[![Follow cdp1337 on Mastodon](https://img.shields.io/mastodon/follow/109229082531205594?domain=https%3A%2F%2Fsocial.veraciousnetwork.com&style=social)](https://social.veraciousnetwork.com/@cdp1337)
+&nbsp;&nbsp;
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/cdp1337?style=social)](https://old.reddit.com/u/cdp1337)
+&nbsp;&nbsp;
+[![Keybase PGP](https://img.shields.io/keybase/pgp/cdp1337?style=social)](gpg_keys/charlie_legacy.B2BEDCCB.pub)
+&nbsp;&nbsp;
+[![LinkedIN](https://img.shields.io/badge/Linkedin-Charlie_Powell-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/powellcharles/)
