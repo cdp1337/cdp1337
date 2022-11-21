@@ -1,6 +1,6 @@
 Charlie currently works at a large enterprise specializing in corporate information management, digital security, and endpoint backup solutions doing Linux systems administration and development in PHP, C#, and Java.  This does not relate to any code on Github but interested parties can read more on LinkedIn.
 
-Admin of [Veracious Network](https://veraciousnetwork.com) and currently working on a more full featured implementation of CMS.js (listed in repos below).
+Admin of [Veracious Network](https://veraciousnetwork.com) and currently working on a more [full featured implementation of CMS.js](https://github.com/cdp1337/cms.js).
 
 Email encryption and verification are available via GPG, public keys listed in [gpg_keys](https://github.com/cdp1337/cdp1337/tree/main/gpg_keys).
 
