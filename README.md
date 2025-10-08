@@ -5,6 +5,6 @@ Email encryption and verification are available via GPG, public keys listed in [
 -----
 
 * [Author Profile](https://bitsnbytes.dev/authors/cdp1337.html)
-* [![Follow cdp1337 on Mastodon](https://img.shields.io/mastodon/follow/109229082531205594?domain=https%3A%2F%2Fsocial.veraciousnetwork.com&style=social)](https://social.veraciousnetwork.com/@cdp1337) (Pending migration to Bits 'n Bytes namespace)
+* [![Follow cdp1337 on Mastodon](https://img.shields.io/mastodon/follow/109229082531205594?domain=https%3A%2F%2Fsocial.bitsnbytes.dev&style=social)](https://social.bitsnbytes.dev/@cdp1337)
 * [![Keybase PGP](https://img.shields.io/keybase/pgp/cdp1337?style=social)](gpg_keys/charlie_legacy.B2BEDCCB.pub)
 * [![LinkedIN](https://img.shields.io/badge/Linkedin-Charlie_Powell-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/powellcharles/)
